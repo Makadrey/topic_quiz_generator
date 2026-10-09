@@ -1,5 +1,4 @@
 
-![App](image.png)
 Please find streamlit app here : https://topic-quiz-generator.streamlit.app/
 
 # QuizMaster
