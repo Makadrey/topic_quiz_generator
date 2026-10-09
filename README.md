@@ -64,5 +64,3 @@ Open http://localhost:8501 and start creating quizzes!
 
 Feel free to open issues or submit pull requests. This is a learning project and contributions are welcome!
 
-
-*Created by jaycobson*
